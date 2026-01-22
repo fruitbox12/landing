@@ -91,7 +91,7 @@ export default function ShadwLanding() {
         {/* Logo with scale animation */}
         <div className="relative z-10 flex items-center gap-3 animate-[fade-scale_0.6s_ease-out_forwards]">
           <Image 
-            src="https://shadw.cloud/icow.png" 
+            src="https://shadw-tjfj.vercel.app/icow.png" 
             alt="Shadw Logo" 
             width={140}
             height={70}
@@ -173,7 +173,7 @@ export default function ShadwLanding() {
           {/* Logo */}
             <Link href="/" className="flex items-center gap-2">
             <Image 
-              src="https://shadw.cloud/icow.png" 
+              src="https://shadw-tjfj.vercel.app/icow.png" 
               alt="Shadw Logo" 
               width={80}
               height={40}
@@ -378,7 +378,7 @@ export default function ShadwLanding() {
             <div className="col-span-2">
               <Link href="/" className="flex items-center gap-2 mb-4">
                 <Image 
-                  src="https://shadw.cloud/icow.png" 
+                  src="https://shadw-tjfj.vercel.app/icow.png" 
                   alt="Shadw Logo" 
                   width={80}
                   height={40}

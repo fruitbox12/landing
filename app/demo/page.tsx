@@ -457,7 +457,7 @@ export default function DemoPage() {
       <header className="relative z-50 bg-black/80 backdrop-blur-xl border-b border-gray-800/50">
         <div className="mx-auto flex h-14 max-w-7xl items-center justify-between px-6">
           <Link href="/" className="flex items-center gap-2">
-            <Image src="https://shadw.cloud/icow.png" alt="Shadw Logo" width={70} height={35} />
+            <Image src="https://shadw-tjfj.vercel.app/icow.png" alt="Shadw Logo" width={70} height={35} />
           </Link>
           <Link href="/">
             <Button variant="ghost" className="text-gray-400 hover:text-white hover:bg-white/5 rounded-full text-sm h-9 bg-transparent">

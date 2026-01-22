@@ -1213,7 +1213,7 @@ function WebDesktop() {
       <div className="h-full flex flex-col">
         <div className="h-10 bg-white/5 border-b border-white/10 flex items-center px-3 gap-2">
           <div className="flex-1 h-7 bg-white/10 rounded-lg flex items-center px-3">
-            <span className="text-xs text-white/50">https://shadw.cloud/dashboard</span>
+            <span className="text-xs text-white/50">https://shadw-tjfj.vercel.app/dashboard</span>
           </div>
         </div>
         <div className="flex-1 bg-gradient-to-br from-purple-900/20 to-cyan-900/20 flex items-center justify-center">
@@ -1707,7 +1707,7 @@ export default function PlatformDashboard() {
       <header className="h-14 border-b border-gray-800/60 bg-[#0c0c0d] flex items-center justify-between px-4 shrink-0">
         <div className="flex items-center gap-3">
           <Link href="/" className="flex items-center">
-            <img src="https://shadw.cloud/icow.png" alt="Shadw" width={78} height={78} className="opacity-90" />
+            <img src="https://shadw-tjfj.vercel.app/icow.png" alt="Shadw" width={78} height={78} className="opacity-90" />
           </Link>
           <div className="flex items-center gap-2 text-sm">
             <span className="text-gray-600">/</span>

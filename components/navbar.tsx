@@ -16,7 +16,7 @@ export function Navbar() {
         {/* Logo - links to home */}
         <Link href="/" className="flex items-center gap-2">
           <Image 
-            src="https://shadw.cloud/icow.png" 
+            src="https://shadw-tjfj.vercel.app/icow.png" 
             alt="Shadw Logo" 
             width={80}
             height={40}
